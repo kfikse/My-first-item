@@ -1,4 +1,1 @@
-My-first-item
-=============
-
-just coding stuff
+Im Learning to Code
